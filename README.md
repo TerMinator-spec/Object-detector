@@ -8,6 +8,7 @@ In this project Convolution neural networks and open CV have been used to detect
 - Install IP webcam on your android device to use your mobile camera for live streaming
 # Usage
 - Run webcam.py file in your ide.
+- Download model_1.h5 file from this link https://drive.google.com/file/d/1IV9mSdlu3GOMQQk9O4ZcvXstf8ZPX7Ba/view?usp=sharing
 - Open IP webcam in your android device and paste the url in your browser.
 - Select the javascript on the webpage.
 - Right click on streaming video on the browser and copy the image url.
